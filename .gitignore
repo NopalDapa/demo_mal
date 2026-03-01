@@ -1,0 +1,4 @@
+calc
+.build_cache
+*.o
+AGENTS.override.md
